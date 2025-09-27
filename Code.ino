@@ -4,9 +4,9 @@
  *  ThingSpeak: https://thingspeak.com/
  *  Library: https://github.com/ThingPulse/esp8266-oled-ssd1306
  */
- #include <ESP8266WiFi.h>        //Use ESP8266 functions                                              
- #include <ESP8266HTTPClient.h>
- #include <Wire.h>  // Only needed for Arduino 1.6.5 and earlier
+ #include<ESP8266WiFi.h>        //Use ESP8266 functions                                              
+ #include<ESP8266HTTPClient.h>
+ #include<Wire.h>  // Only needed for Arduino 1.6.5 and earlier
  #include "SSD1306Wire.h" 
  #include "OLEDDisplayUi.h" // Include the UI lib
  #include "images.h"  // Include custom images
