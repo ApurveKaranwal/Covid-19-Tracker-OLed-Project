@@ -1,5 +1,4 @@
-# 🦠 COVID-19 Live Tracker (NodeMCU + OLED)
-
+# 🦠 COVID-19 Live Tracker
 This project is a **COVID-19 Live Tracker** built using an **ESP8266 NodeMCU** and an **OLED display**.  
 It fetches real-time COVID-19 data (cases, deaths, recovered) from **Worldometer** using **ThingSpeak** as a data pipeline, and displays it on the OLED.
 
